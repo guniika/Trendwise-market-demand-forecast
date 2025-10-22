@@ -1,4 +1,4 @@
-# TrendWise – AI-Powered Market Demand Forecast & Recommendation System
+# AQUA-SMART: Designing a Water-Wise, Multi-Family Washing System
 
 This project predicts upcoming market demand trends using historical sales data, public search behavior, and seasonal patterns. It combines time series forecasting with data analysis and visualization to generate actionable business insights.
 
